@@ -3,7 +3,7 @@ Rebol []
 header-file: %include/glfw3.h
 output-file: %glfw3.reds
 
-do %../common-init.r
+do %common-init.r
 
 ch_hexdigit: charset "0123456789ABCDEF"
 

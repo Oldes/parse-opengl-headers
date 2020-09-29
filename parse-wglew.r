@@ -3,7 +3,7 @@ Rebol []
 header-file: %include/wglew.h
 output-file: %wgl.reds
 
-do %../common-init.r
+do %common-init.r
 
 echo output-file
 

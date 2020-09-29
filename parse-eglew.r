@@ -3,7 +3,7 @@ Rebol []
 header-file: %include/eglew.h
 output-file: %egl.reds
 
-do %../common-init.r
+do %common-init.r
 
 echo output-file
 

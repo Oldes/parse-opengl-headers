@@ -3,7 +3,7 @@ Rebol []
 header-file: %glew.h
 output-file: %gl.reds
 
-do %../common-init.r
+do %common-init.r
 
 echo output-file
 

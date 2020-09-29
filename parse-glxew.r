@@ -3,7 +3,7 @@ Rebol []
 header-file: %include/glxew.h
 output-file: %glx.reds
 
-do %../common-init.r
+do %common-init.r
 
 echo output-file
 
